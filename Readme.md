@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto Apple simula a ------------------------------, onde é possível ao clicar em alguns botões aparecer certos tipos de efeitos.
+O Projeto Apple simula a lanpage da Apple, onde ao clicar em alguns botões aparecer certos tipos de efeitos.
 
 ## 🔖 Layout
 
